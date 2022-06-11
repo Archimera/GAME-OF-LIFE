@@ -24,8 +24,8 @@ are the 8 cells that surround it
 
 
 # Execution
-  1. Create 'build' folder in main directory
-  2. Change directory to 'build'
+  1. Create 'build' folder in themain directory
+  2. Change directory to the 'build'
   3. Run the 'ccmake ../' command
   4. Run the 'make' command
   5. Execute program using './mygame'  (--see "howtorun")
