@@ -1,4 +1,5 @@
-# GAME OF LIFE by Musakhan Eminov & Elmin Mammadov
+# GAME OF LIFE
+-Musakhan Eminov & Elmin Mammadov
 
 The Game of Life is, in reality, a cellular automaton defined in 1970 by the English
 mathematician John Conway in order to try to solve a problem raised by a
